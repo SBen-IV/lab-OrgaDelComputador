@@ -1,4 +1,3 @@
 # Lab - Organización del Computador
 
-2c2019
-Cátedra Moreno-Simó
+Cátedra Moreno-Simó - 2c2019
